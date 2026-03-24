@@ -85,4 +85,4 @@ A risk score system that flags employees who are most likely to leave, so HR can
 ## Author
 
 **Sachu Mon Puthenpuraickkal Sajeev**  
-Connect with me on [LinkedIn](www.linkedin.com/sachu-mon) | [GitHub](https://github.com/sachumonpsajeev-cyber) | [whatsapp](+371-22447242) | [email] (sachumonpsajeevp3110@gmail.com) |
+Connect with me on [LinkedIn](www.linkedin.com/sachu-mon) | [GitHub](https://github.com/sachumonpsajeev-cyber) | [whatsapp](+371-22447242) | [email] (sachumonsajeevp3110@gmail.com) |
