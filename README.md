@@ -22,7 +22,18 @@ The analysis uncovered four critical levers for retention:
 * `/docs`: Project documentation and DAX measurement definitions.
 * `/images`: Visual snapshots of the dashboard for quick review.
 
+## 🖥️ Dashboard Visuals
+
+### 1. Executive Overview
+![Executive Overview](images/overview.png)
+
+### 2. Attrition Details
+![Attrition Details](images/details.png)
+
+### 3. Attrition Drivers
+![Attrition Drivers](images/driver.png)
 ---
+
 
 ## 👨‍💻 Connect & Collaborate
 I am currently seeking opportunities in Data Analytics and Business Intelligence. I am open to feedback on my data modeling approach or project structure!
